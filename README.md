@@ -2,13 +2,17 @@
 
 ¡Bienvenido a nuestra deliciosa y auténtica experiencia de carnitas! El guero, nos enorgullece ofrecer las mejores carnitas preparadas con ingredientes frescos y de alta calidad. Este README proporciona información clave sobre nuestra página web para que nuestros clientes puedan disfrutar al máximo de nuestro servicio.
 
+![Captura Clon Google](cap1.png)
+
 ## Contenido
 
 1. **Sobre Nosotros**
    - Descubre la historia detrás de el guero y nuestra pasión por las carnitas.
+![Captura Clon Google](cap3.png)
 
 2. **Menú**
    - Explora nuestro delicioso menú de carnitas. Desde tacos hasta platillos especiales, tenemos algo para todos los amantes de la carne de cerdo.
+![Captura Clon Google](cap2.png)
    
 
 3. **Cómo Ordenar**
@@ -16,9 +20,10 @@
 
 4. **Ubicación**
    - Encuentra nuestra ubicación física y obtén indicaciones para visitarnos. ¡Esperamos verte pronto!
-
+![Captura Clon Google](cap5.png)
 5. **Contacto**
    - Comunícate con nosotros para hacer preguntas, proporcionar comentarios o solicitar información adicional. Estamos aquí para ayudarte.
+![Captura Clon Google](cap4.png)
 
 ## Cómo Contribuir
 
